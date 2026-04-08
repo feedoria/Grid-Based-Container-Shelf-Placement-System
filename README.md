@@ -100,6 +100,8 @@ The interaction layer is intentionally minimal — the main purpose is to demons
 - visual placement preview
 
   
+## Demo
+
 <p align="center">
-![InventorySystem](https://github.com/user-attachments/assets/73773e42-b7ee-4940-8ceb-507ea77fa688)
+  <img src="https://github.com/user-attachments/assets/73773e42-b7ee-4940-8ceb-507ea77fa688" width="700"/>
 </p>
