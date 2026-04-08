@@ -98,3 +98,8 @@ The interaction layer is intentionally minimal — the main purpose is to demons
 - item rotation in runtime
 - smarter placement (packing optimization)
 - visual placement preview
+
+  
+<p align="center">
+![InventorySystem](https://github.com/user-attachments/assets/73773e42-b7ee-4940-8ceb-507ea77fa688)
+</p>
