@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 781bfa1eeb984de185b9a692ed9ce061, type: 3}
+  m_Name: ItemDataContainer
+  m_EditorClassIdentifier: Assembly-CSharp::ItemData
+  itemName: 
+  spawnType: 0
+  worldPrefab: {fileID: 8371107363943035617, guid: 7000df0d422f91d48b253187f689d694, type: 3}
+  heldPrefab: {fileID: 8371107363943035617, guid: 7000df0d422f91d48b253187f689d694, type: 3}
+  isPickupable: 1
+  holdItemPos: {x: -0.324, y: 0.2306, z: -0.3003}
+  twoHandHoldLocalPosOffset: {x: 0, y: 0, z: 0}
+  shelfPositionOffset: {x: 0, y: 0, z: 0}
+  handEulerAngles: {x: 19.995, y: -180, z: 0.469}
+  heldObjectScale: {x: 0.3, y: 0.3, z: 0.3}
+  worldObjectScale: {x: 0, y: 0, z: 0}
+  slotWidth: 1
+  slotHeight: 1
