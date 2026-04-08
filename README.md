@@ -95,5 +95,6 @@ The interaction layer is intentionally minimal — the main purpose is to demons
 
 - UI-based inventory (drag & drop)
 - stacking system
+- item rotation in runtime
 - smarter placement (packing optimization)
 - visual placement preview
